@@ -1,3 +1,2 @@
 # PRODOGY_CS_05
-This project demonstrates a basic image encryption and decryption technique using pixel-level manipulation with the XOR operation. It allows users to securely scramble and recover image data using a secret key. This is a basic educational tool, not meant for high-security encryption. Use for learning or lightweight obfuscation.
-
+This Python-based Packet Sniffer Tool captures and analyzes live network traffic using the scapy library. It extracts and displays key details such as: Source and Destination IP addresses Protocol type (TCP, UDP, ICMP, etc.) Payload data (if available) The tool is intended strictly for educational and ethical purposes. It helps students and cybersecurity beginners understand how network packets flow and how to analyze them. Note: Requires administrator/root privileges to run.
